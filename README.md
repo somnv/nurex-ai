@@ -1,2 +1,3 @@
-# nurex-ai
-AI-powered video short generator from long videos. Built by Shehab.
+# Nurex AI
+
+This is the initial version of the Nurex AI landing page.
